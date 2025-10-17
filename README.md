@@ -10,26 +10,26 @@ Add this tap to your Homebrew installation:
 brew tap ytget/ytdlp
 ```
 
-Then install ytdlp-go:
+Then install ytdlp:
 
 ```bash
-brew install ytdlp-go
+brew install ytdlp
 ```
 
 ## Updating
 
-To update ytdlp-go to the latest version:
+To update ytdlp to the latest version:
 
 ```bash
-brew upgrade ytdlp-go
+brew upgrade ytdlp
 ```
 
 ## Uninstalling
 
-To remove ytdlp-go:
+To remove ytdlp:
 
 ```bash
-brew uninstall ytdlp-go
+brew uninstall ytdlp
 ```
 
 To remove this tap:
@@ -43,7 +43,7 @@ brew untap ytget/ytdlp
 If you prefer to install directly from the main repository:
 
 ```bash
-brew install ytget/ytdlp/Formula/ytdlp-go
+brew install ytget/ytdlp/Formula/ytdlp
 ```
 
 ## License
